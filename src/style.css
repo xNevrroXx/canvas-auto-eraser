@@ -12,10 +12,10 @@ body {
 .text-with-cover {
     position: relative;
 }
-.text-with-cover span {
+.text-with-cover .text-with-cover__text {
     font-size: 4rem;
 }
-.text-with-cover canvas {
+.text-with-cover .text-with-cover__cover {
     position: absolute;
     top: 0;
     left: 0;
